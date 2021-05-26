@@ -24,3 +24,7 @@
  cd VMBF
  
  python2 Star.py
+
+####Screenschot####
+<p align="center">
+ <img src="https://github.com/MRVIVEK-CODER/VMBF/blob/main/IMG_0526093827.jpg" width="640" title="Menu" alt="Menu">
